@@ -10,6 +10,8 @@
   "license": "BSD",
   "dependencies": {
     "optimist": "~0.6.0",
-    "express": "~3.4.6"
+    "express": "~3.4.6",
+    "connect": "~2.11.2",
+    "request": "~2.29.0"
   }
 }
