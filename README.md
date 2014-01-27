@@ -1,7 +1,8 @@
 # HAProxy + Node Example.
+
+HAProxy & Node must be required
+
 ```
 npm install
-node index.js --port=8001
-node index.js --port=8002
-sudo haproxy -f ./haproxy.cfg
+./start.sh
 ```
